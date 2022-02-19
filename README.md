@@ -8,6 +8,6 @@ This tool should be used to :
 usage : python3 stegaxor.py -e|-d \<file|cypherfile\> \<keyfile\> \<outputfile\>
 
 options :
-    -e  --encrypt   Encrypt \<file\> by xoring it with \<keyfile\> and generate \<outputfile\>
-    -d  --decrypt   Decrypt \<cypherfile\> by xoring it with \<keyfile\> and returning result
+    -e  --encrypt   Encrypt \<file\> by xoring it with \<keyfile\> and generate \<outputfile\>  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-d  --decrypt   Decrypt \<cypherfile\> by xoring it with \<keyfile\> and returning result
                     in \<outputfile\>
